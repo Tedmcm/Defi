@@ -1,6 +1,6 @@
 ![markdown-image](screenshots/coindrive.png)
 
-# CoinDrive, A DAPP built for file Storage and Streaming.... 
+# CoinDrive, A DApp built for file Storage and Streaming.... 
 
 
 ## User/Set up Guide:  
