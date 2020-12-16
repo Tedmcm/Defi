@@ -115,10 +115,16 @@ To install the Go Ethereum Tools, please follow the next steps:
 
 1. Open your Terminal and navidate to a folder `Blockchain-Tools`. Switch from base to ethereum environment (`conda activate ethereum`). 
 
+_____________________________________________________________________________________________________________________________________________________
+Once our CoinDrive is ReActivated and Running we will be offering serveral different mining solutions. 
 
-????. Now the nodes can be used to begin mining blocks.
+For general Peer-to-Peer networks you can use the following instructions to connect to the network:
 
-   
+
+![Peer to Peer](screenshots/image.png)
+
+     
+_____________________________________________________________________________________________________________________________________________________
 
     * **NOTE:** Type your password and hit enter - even if you can't see it visually or trying adding --password pw.txt and saving an actual passwrod in txt file in the `Blockchain-Tools` folder. 
     * **NOTE:** Add --syncmode full and/or --minerthreads  if your are having trouble with nodes mining. 
